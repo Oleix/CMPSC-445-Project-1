@@ -136,7 +136,7 @@ plt.show()
 - **Random Forest performs better than Linear Regression** for salary prediction.
 
 ### 🔹 Challenges Encountered
-- **CareerBuilder restricted automated scraping**, requiring manual data addition.
+- **CareerBuilder restricted automated scraping in some cases, so I had to think of a work around
 - **Salary data inconsistencies** required cleaning.
 - **Lack of structured skill tags** in job listings.
 

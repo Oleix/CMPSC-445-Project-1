@@ -1,3 +1,5 @@
+!pip install beautifulsoup4 pandas numpy scikit-learn matplotlib seaborn plotly requests > /dev/null 2>&1
+
 import warnings
 import requests
 import pandas as pd

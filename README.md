@@ -25,7 +25,7 @@ This project aims to predict salaries for job postings and identify the most imp
 ### 🔹 Data Sources
 - **Scraped Websites**:
   - [SimplyHired](https://www.simplyhired.com)
-  - **Manually Added Data** from **CareerBuilder**
+  - CareerBuilder
 
 ### 🔹 Collected Attributes
 - **Job Title**
